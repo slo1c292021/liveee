@@ -21,7 +21,7 @@
 	<br /><br />
 	
 	<a href="https://www.youtube.com/watch?v=NJhAD9QJ7h8" target="_blank" title="Greatest of all time">
-	<img src="img/matip.jpg" />
+	<img src="matip.jpg" />
 	</a>
 	
 	<br /><br />
@@ -34,10 +34,10 @@
 	<br /><br />
 	
 	<a hred="https://www.youtube.com/watch?v=oaMLmgWYrbo" target="_blank" title="totalna dominacja!">
-	<img src="img/salah.jpg" />
+	<img src="salah.jpg" />
 	</a>
-<img src="img/goata.jpg"/>
-<img src="img/team.jpg"/>
-<img src="img/rush.jpg"/>
+<img src="goata.jpg"/>
+<img src="team.jpg"/>
+<img src="rush.jpg"/>
 </body>
 </html>
