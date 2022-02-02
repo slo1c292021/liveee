@@ -3,7 +3,7 @@
 <head>
      <meta charset="utf-8" />
 	 <title>Liverpool FC</title>
-	 <meta name="description" content="Oto drugi najlepszy klub w historii angielskiej piłki!" /
+	 <meta name="description" content="Oto drugi najlepszy klub w historii angielskiej piłki!" />
 	 <meta name="keywords" content="noga,sport, futbol, piłka" />
 	 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome,opera=1" />
 	 <link rel="stylesheet" href="style.css" type="text/css" />	
